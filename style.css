@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   border:3px  solid aqua ;
+   border-radius:15px;
+   padding:5px;
+   background-color: aqua ;
+}
+main{   border:3px  solid rgb(148, 255, 255)  ;
+   border-radius:15px;
+   padding:5px;
+   background-color: rgb(148, 255, 255);
+
+}
+footer{
+     border:3px  solid aqua  ;
+   border-radius:15px;
+   padding:5px;
+   background-color: aqua;
+   
+}
+main h1{
+      border:3px  solid aqua  ;
+   border-radius:15px;
+   padding:5px;
+   background-color: aqua;
+}
+
